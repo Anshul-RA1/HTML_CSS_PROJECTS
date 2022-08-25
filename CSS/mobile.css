@@ -10,7 +10,8 @@
 
 #navbar ul li a {
   padding:5px;
-  border-bottom: #444 solid 3px;
+  border-bottom: #444 inset 3px;
+  margin-bottom: 10px;
 }
 
 /* showcase  */
